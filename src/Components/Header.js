@@ -17,7 +17,7 @@ const Header = ({myTheme, onToggleTheme, onSwitch}) => {
         <div className="header-menu">
             <ul className="nav --flex-between">
                 <li><a href="#">Home</a></li>
-                <li><a href="">About</a></li>
+
                 <li><a href="">Contact</a></li>
             </ul>
         </div>

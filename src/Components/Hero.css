@@ -95,6 +95,22 @@ button a{
     }
 
     .hero{
-        height: 90vh;
+        min-height: 90vh;
+        
+        
+    }
+
+    .text h1{
+        font-size: 1.2rem;
+    }
+
+    .img img{
+        height: 194px;
+    }
+}
+
+@media screen and (max-width:3600px){
+    .text h1{
+        font-size: 2rem;
     }
 }

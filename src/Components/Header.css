@@ -72,4 +72,10 @@ header::after{
     .logo p{
         display: none;
     }
+
+    .toggle-btn{
+        width: 45px;
+        height: 23px;
+    }   
+
 }
